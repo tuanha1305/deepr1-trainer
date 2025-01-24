@@ -1,2 +1,6 @@
-geoopt
+geoopt~=0.5.0
 PyYAML==6.0.2
+torch~=2.5.1
+numpy~=2.0.2
+transformers~=4.48.1
+tqdm~=4.67.1
