@@ -4,3 +4,7 @@ torch~=2.5.1
 numpy~=2.0.2
 transformers~=4.48.1
 tqdm~=4.67.1
+nltk~=3.9.1
+spacy~=3.8.3
+contractions~=0.1.73
+emoji~=2.14.1
