@@ -143,8 +143,8 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## 📫 Contact
 
-Lucas Ha - tuanictu97@gmail.com
-Project Link: https://github.com/tuanha1305/deepr1-trainer
+- Lucas Ha - tuanictu97@gmail.com
+- Project Link: https://github.com/tuanha1305/deepr1-trainer
 
 ## 🙏 Acknowledgments
 
